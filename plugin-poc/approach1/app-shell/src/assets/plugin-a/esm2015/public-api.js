@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of plugin-a
+ */
+export * from './lib/plugin-a.service';
+export * from './lib/plugin-a.component';
+export * from './lib/plugin-a.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uLy4uL3BsdWdpbi1jb2RlYmFzZS9wcm9qZWN0cy9wbHVnaW4tYS9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsd0JBQXdCLENBQUM7QUFDdkMsY0FBYywwQkFBMEIsQ0FBQztBQUN6QyxjQUFjLHVCQUF1QixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBwbHVnaW4tYVxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL3BsdWdpbi1hLnNlcnZpY2UnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvcGx1Z2luLWEuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL3BsdWdpbi1hLm1vZHVsZSc7XG4iXX0=

@@ -1,0 +1,18 @@
+{
+  "name": "plugin-a",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^12.1.1",
+    "@angular/core": "^12.1.1"
+  },
+  "dependencies": {
+    "tslib": "^2.2.0"
+  },
+  "main": "bundles/plugin-a.umd.js",
+  "module": "fesm2015/plugin-a.js",
+  "es2015": "fesm2015/plugin-a.js",
+  "esm2015": "esm2015/plugin-a.js",
+  "fesm2015": "fesm2015/plugin-a.js",
+  "typings": "plugin-a.d.ts",
+  "sideEffects": false
+}
